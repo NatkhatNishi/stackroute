@@ -1,0 +1,9 @@
+.note-input-fields{
+    display:flex;
+    flex-direction: column;
+}
+
+.note-input-button{
+    display: flex;
+    justify-content: flex-end;
+}

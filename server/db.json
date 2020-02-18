@@ -1,0 +1,76 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular5 blog",
+      "text": "Shall do at 6 pm",
+      "state": "started"
+    },
+    {
+      "id": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions",
+      "state": "started"
+    },
+    {
+      "title": "Capitalism",
+      "text": "Mark Twain",
+      "id": 3,
+      "state": "completed"
+    },
+    {
+      "title": "nishi",
+      "text": "nishi is awesome",
+      "state": "started",
+      "id": 4
+    },
+    {
+      "title": "nishigandha",
+      "text": "nishi is awesome",
+      "state": "completed",
+      "id": 5
+    },
+    {
+      "title": "TLJ part 36",
+      "text": "Complete by today EOD",
+      "state": "not-started",
+      "id": 6
+    },
+    {
+      "title": "nishi",
+      "text": "nishi is mad",
+      "state": "not-started",
+      "id": 7
+    },
+    {
+      "title": "nishi",
+      "text": "nishi is nishi",
+      "state": "not-started",
+      "id": 8
+    },
+    {
+      "title": "Dummy Note",
+      "text": "Dummy Note Text",
+      "state": "not-started",
+      "id": 9
+    },
+    {
+      "title": "Read Angular 1 blog",
+      "text": "Shall do at 10.30 pm",
+      "state": "not-started",
+      "id": 10
+    },
+    {
+      "title": "Dummy Note",
+      "text": "Dummy Note Text",
+      "state": "not-started",
+      "id": 11
+    },
+    {
+      "title": "Read Angular 1 blog",
+      "text": "Shall do at 10.30 pm",
+      "state": "not-started",
+      "id": 12
+    }
+  ]
+}

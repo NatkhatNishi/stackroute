@@ -1,0 +1,7 @@
+app-note{
+    display: inline-flex;
+    width:15%;
+    margin:30px;
+    margin-top:50px;
+    flex-direction: column;
+}
